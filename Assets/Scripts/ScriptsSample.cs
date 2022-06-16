@@ -8,6 +8,7 @@ public class ScriptsSample : MonoBehaviour
     void Start()
     {
         //수정사항 있음
+        int i = 0;
     }
 
     // Update is called once per frame
