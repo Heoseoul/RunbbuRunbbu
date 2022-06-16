@@ -7,7 +7,7 @@ public class ScriptsSample : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        //수정사항
+        //수정사항 있음
     }
 
     // Update is called once per frame
